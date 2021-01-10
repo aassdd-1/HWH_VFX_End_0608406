@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/VFX_0608406.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
