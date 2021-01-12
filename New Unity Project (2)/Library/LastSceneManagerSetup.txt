@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/VFX_0608406.unity
+- path: "Assets/\u7011\u5E03.unity"
   isLoaded: 1
   isActive: 1
   isSubScene: 0
